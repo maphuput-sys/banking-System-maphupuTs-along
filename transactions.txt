@@ -1,0 +1,9 @@
+2026-10-13T12:42:08.964754500 | Account: ACC1001 | Type: Deposit | Amount: M700.0 | Balance: M1600.0 | Successful
+2026-10-13T12:42:43.487873100 | Account: ACC1001 | Type: Deposit | Amount: M900.0 | Balance: M2500.0 | Successful
+2026-10-13T12:43:29.083687100 | Account: ACC1001 | Type: Withdrawal | Amount: M900.0 | Balance: M1600.0 | Successful
+2026-10-13T13:14:05.918598100 | Account: ACC1002 | Type: Interest | Amount: M0.0 | Balance: M200.0 | Interest calculated
+2026-10-13T13:19:52.993721100 | Account: ACC1002 | Type: Withdrawal | Amount: M0.0 | Balance: M200.0 | Failed: Withdrawal must be greater than zero.
+2026-10-13T13:22:02.060934400 | Account: ACC1002 | Type: Withdrawal | Amount: M200.0 | Balance: M0.0 | Successful
+2026-10-13T13:23:50.300178800 | Account: ACC1001 | Type: Interest | Amount: M5.0 | Balance: M100.0 | Interest calculated
+2026-10-13T17:38:23.981708200 | Account: ACC1001 | Type: Withdrawal | Amount: M800.0 | Balance: M866.0 | Failed: Saving account must keep a minimum balance of M100.
+2026-10-21T12:27:33.426307800 | Account: ACC1001 | Type: Transfer | Amount: M300.0 | Balance: M566.0 | Transfer successful
